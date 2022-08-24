@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="4.151">
+    <testcase classname="Todo functionality" name="Adding todo tasks" time="2.086">
+        <system-out><![CDATA[Given user navigates to todo page...........................................passed
+When user creates 1 tasks named task1.......................................passed
+Then tasks with task1 are created successfully..............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Todo functionality" name="Adding todo tasks 2" time="1.814">
+        <system-out><![CDATA[Given user navigates to todo page...........................................passed
+When user creates 10 tasks named task10.....................................passed
+Then tasks with task10 are created successfully.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
